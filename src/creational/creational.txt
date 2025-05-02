@@ -6,3 +6,7 @@ Purpose: An extend of factory method for create a group of families of object
 
 3. Builder ( like @Builder )
 Purpose: Allows constructing complex objects step by step
+
+4. Prototype
+Purpose: Allows cloning objects, even complex ones,
+The Prototype pattern is available in Java out of the box with a Cloneable interface.
