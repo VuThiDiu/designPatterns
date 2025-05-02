@@ -1,1 +1,0 @@
-Purpose: Create a ( factory ) method to define which component will be created

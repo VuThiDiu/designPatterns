@@ -1,0 +1,5 @@
+1. Factory method ( create an function )
+Purpose: Create a ( factory ) method to define which component will be created
+
+2. Abstract factory ( create an abstract class)
+Purpose: An extend of factory method for create a group of families of object
