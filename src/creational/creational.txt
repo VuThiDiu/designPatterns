@@ -3,3 +3,6 @@ Purpose: Create a ( factory ) method to define which component will be created
 
 2. Abstract factory ( create an abstract class)
 Purpose: An extend of factory method for create a group of families of object
+
+3. Builder ( like @Builder )
+Purpose: Allows constructing complex objects step by step
